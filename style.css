@@ -7,7 +7,7 @@ body {
   height: 100px;
   text-align: center;
   padding-top: 5px;
-  width: 1024px;
+  width: 100%;
   position: fixed;
   z-index: 1;
   /*fix positioning of topPart */
@@ -20,13 +20,13 @@ body {
 }
 
 img {
-    max-width: 821px;
-    max-height: 619px;
+    max-width: 1179px;
+    max-height: 563px;
 }
 
-.landscape {
-    height: 821px;
-    width: 619px;
-}
+/*.landscape {
+    height: 60%;
+    width: 60%;
+}*/
 
 
