@@ -1,0 +1,32 @@
+body { 
+
+  }
+
+.topPart {
+  background-color: lightblue;
+  height: 100px;
+  text-align: center;
+  padding-top: 5px;
+  width: 1024px;
+  position: fixed;
+  z-index: 1;
+  /*fix positioning of topPart */
+}
+
+.middlePart {
+  /*background-color: lightgreen;*/
+  height: 100%;
+  padding-top: 120px;
+}
+
+img {
+    max-width: 821px;
+    max-height: 619px;
+}
+
+.landscape {
+    height: 821px;
+    width: 619px;
+}
+
+
